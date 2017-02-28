@@ -1,0 +1,14 @@
+<Cards>
+    <Card id="Név">
+        <BoobSize>132</BoobSize>
+        <AvailableHoles>2</AvailableHoles>
+        <Capacity>8</Capacity>
+        <Price>12500</Price>
+    </Card>
+    <Card id="Név">
+        <BoobSize>132</BoobSize>
+        <AvailableHoles>2</AvailableHoles>
+        <Capacity>8</Capacity>
+        <Price>12500</Price>
+    </Card>
+</Cards>
